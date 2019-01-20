@@ -1,1 +1,1 @@
-        This ids a basic calculator using JAVASCRIPT .
+        This is a basic calculator using JAVASCRIPT .
